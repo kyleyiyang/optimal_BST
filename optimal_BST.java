@@ -1,4 +1,4 @@
-OPTIMAL-BST.p; q; n/
+OPTIMAL-BST(p, q)
 1 leteOE1 : : n C 1; 0 : : n, wOE1 : : n C 1; 0 : :n,
 and rootOE1: : n;1: :n be new tables
 2 for i D 1 to n C 1
